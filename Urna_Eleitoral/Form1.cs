@@ -174,6 +174,7 @@ namespace Urna_Eleitoral
 
         private void btnBranco1_Click(object sender, EventArgs e)
         {
+            //Converter para String
             txtBranco.Text = contBranco.ToString();
         }
 
